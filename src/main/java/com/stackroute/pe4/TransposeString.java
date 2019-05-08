@@ -1,3 +1,5 @@
+//Program to Transpose given string
+
 package com.stackroute.pe4;
 
 import java.util.Scanner;
